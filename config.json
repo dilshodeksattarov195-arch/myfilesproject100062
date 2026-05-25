@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachedync",
+        "uuid": 188666,
+        "checksum": "xsjj3f"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
